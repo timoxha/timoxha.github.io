@@ -153,6 +153,7 @@ a {
 button:hover {
   cursor: pointer;
   opacity: 0.5;
+  transition: 0.5s ease
 }
 
 .social-media {
@@ -221,6 +222,36 @@ button:hover {
   margin-left: auto;
   height: 45%;
   padding-top: 20px;
+}
+
+.Steam:hover {
+  cursor: pointer;
+  opacity: 0.5;
+  transition: 0.5s ease
+}
+
+.Youtube:hover {
+  cursor: pointer;
+  opacity: 0.5;
+  transition: 0.5s ease
+}
+
+.Discord:hover {
+  cursor: pointer;
+  opacity: 0.5;
+  transition: 0.5s ease
+}
+
+.X:hover {
+  cursor: pointer;
+  opacity: 0.5;
+  transition: 0.5s ease
+}
+
+.Reddit:hover {
+  cursor: pointer;
+  opacity: 0.5;
+  transition: 0.5s ease
 }
 
 /* Анимации */
